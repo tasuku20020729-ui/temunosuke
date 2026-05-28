@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e60012;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #040000;
+      }
+    </style>
+  </defs>
+  <g id="Logo">
+    <polygon class="cls-2" points="77.01 7.85 77.01 22.17 82.21 27.37 82.21 13.72 115.8 13.72 115.8 27.37 120.99 22.17 120.99 7.85 77.01 7.85"/>
+    <polygon class="cls-2" points="96.12 17.04 96.12 61.28 99.01 64.15 101.87 61.28 101.87 17.04 96.12 17.04"/>
+    <polygon class="cls-1" points="92.37 57.5 87.25 52.4 87.25 17.04 92.37 17.04 92.37 57.5"/>
+    <polygon class="cls-1" points="105.64 57.5 110.75 52.4 110.75 17.04 105.64 17.04 105.64 57.5"/>
+  </g>
+</svg>
